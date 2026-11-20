@@ -1,6 +1,6 @@
-# PA-MUN
+# PA-MSN
 
-Official repository for PA-MUN.
+Official repository for PA-MSN.
 
 **Code Availability**
 
